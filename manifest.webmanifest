@@ -1,0 +1,14 @@
+{
+  "name": "吃饭搭子 · 今天吃什么",
+  "short_name": "吃饭搭子",
+  "description": "两个人的菜谱、投票、买菜与用餐记录",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#ff6f9f",
+  "lang": "zh-CN",
+  "icons": [
+    {"src":"icons/icon-192.svg","sizes":"192x192","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"icons/icon-512.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
