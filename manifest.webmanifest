@@ -1,6 +1,6 @@
 {
-  "name": "吃饭搭子 · 今天吃什么",
-  "short_name": "吃饭搭子",
+  "name": "彤彤今天吃什么！",
+  "short_name": "彤彤吃什么",
   "description": "两个人的菜谱、投票、买菜与用餐记录",
   "start_url": "./",
   "display": "standalone",
