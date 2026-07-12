@@ -1,0 +1,1 @@
+.outing-actions{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:18px}.outing-actions button{border:0;border-radius:14px;min-height:46px;padding:9px 8px;font-size:13px;font-weight:700}.outing-actions [data-outing-picked]{grid-column:1/-1;background:linear-gradient(135deg,#ff78a8,#e94f88);color:white;box-shadow:0 8px 18px rgba(232,76,135,.2)}
